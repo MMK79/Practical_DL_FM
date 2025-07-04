@@ -1,22 +1,39 @@
+# Prefer to install python==3.12 for the best compatibility at this moment
 setuptools
-tensorflow
-keras
+
 pandas
 numpy
-statsmodels
+
+# Web Scrapping
 Scrapy
+selenium
 beautifulsoup4
+
+# Web Development
 Flask
 fastapi
+
+# AI Development
+statsmodels
+tensorflow
+keras
 nltk
 scikit-learn
-seaborn
-matplotlib
 scipy
 xgboost
 lightgbm
 fastai
 transformers
+
+# Visualization
+seaborn
+matplotlib
 plotly
+
+# Jupyter Notebook package
 jupyter-server
 jupyterlab
+
+# Not very compatable with tensor, need some trick to make this work
+# pytorch
+# django
