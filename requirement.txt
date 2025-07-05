@@ -24,6 +24,7 @@ xgboost
 lightgbm
 fastai
 transformers
+opencv-python
 
 # Visualization
 seaborn
@@ -33,6 +34,7 @@ plotly
 # Jupyter Notebook package
 jupyter-server
 jupyterlab
+ipython
 
 # Not very compatable with tensor, need some trick to make this work
 # pytorch
