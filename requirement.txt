@@ -16,6 +16,7 @@ fastapi
 # AI Development
 statsmodels
 tensorflow
+tensorflow-hub
 keras
 nltk
 scikit-learn
@@ -37,5 +38,6 @@ jupyterlab
 ipython
 
 # Not very compatable with tensor, need some trick to make this work
-# pytorch
-# django
+torch
+pytorch-lightning
+django
