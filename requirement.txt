@@ -17,7 +17,10 @@ fastapi
 statsmodels
 tensorflow
 tensorflow-hub
+tensorflow-text
+tensorflow-datasets
 keras
+keras-nlp
 nltk
 scikit-learn
 scipy
@@ -40,4 +43,5 @@ ipython
 # Not very compatable with tensor, need some trick to make this work
 torch
 pytorch-lightning
+lightning
 django
