@@ -19,6 +19,7 @@ tensorflow
 tensorflow-hub
 tensorflow-text
 tensorflow-datasets
+tf-models-official
 keras
 keras-nlp
 nltk
